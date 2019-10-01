@@ -3,8 +3,8 @@ body{
 	margin-right: 20%;
 }
 
-#tip{
-	background-color: lightblue;
+.tip{
+	background-color: #def6ed;
 	width: 100%;
   	border: none;
  	padding: 30px;
@@ -14,4 +14,9 @@ body{
 .knoppen{
 	margin-right: 5px;	
 	width: 500px;
+}
+
+.afbeelding{
+	max-width: 760px;
+	margin-top: 10px;
 }
