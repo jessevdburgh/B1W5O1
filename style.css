@@ -21,3 +21,7 @@ body{
 	max-width: 760px;
 	margin-top: 10px;
 }
+
+li{
+	margin:10px;
+}
